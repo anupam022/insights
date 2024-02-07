@@ -4,7 +4,7 @@ from pptx import Presentation
 from pptx.util import Inches
 
 # Set up OpenAI API key
-openai.api_key = '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'
+openai.api_key = ''
 
 # Load Excel data
 df = pd.read_excel(f'Book1.xlsx')
