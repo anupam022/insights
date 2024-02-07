@@ -1,3 +1,35 @@
 GPT Prompt Engineering
 Vectorization
-Context Learning in GPT
+Context Learning in GPT-Generative Pre-Trained Transformer
+
+GPT Prompt Engineering -->
+Prompt Engineering: This involves crafting effective prompts to guide the model 
+in generating desired outputs. It's crucial for tailoring the behavior of the model
+to specific applications.
+
+--> Involves human writing refining and optimizing prompts in a structured way.
+--> Linguistic are key to prompt Engineering.
+ 
+Linguistics is like being a detective for language. It's about studying how we use words, 
+sounds, and grammar to communicate. Linguists look at things like how words are formed,
+how sentences are structured, and what different sounds mean in different languages.
+They also explore how languages change over time and how people from different groups
+or places might speak differently. It's a bit like understanding the hidden rules
+and patterns behind how we talk and write.
+
+ Vectorization-->
+Vectorization refers to the process of converting an algorithm or operation from 
+operating on a single element at a time to operating on multiple elements (vectors)
+simultaneously. This is particularly relevant in the context of parallel processing
+and can significantly improve the efficiency of numerical computations.
+
+
+Alteryx     --> Data Visualization Tool
+Power bi
+Tableau
+    
+openai.api_key = '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'
+
+Integrate Chatgpt in Excel and get the insights from the data.
+
+We can link excel to powerpoint whatever we make changes in excel it will make changes in powerpoint too.
